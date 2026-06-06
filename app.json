@@ -19,6 +19,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b01eb4b0-16ae-4e79-a8ec-914cf6d52bfb"
+      }
+    },
+    "owner": "kevin622",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b01eb4b0-16ae-4e79-a8ec-914cf6d52bfb"
     }
   }
 }
